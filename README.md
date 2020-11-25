@@ -4,7 +4,7 @@ Playing around with the Swift and SwiftUI, I made a simple and cute App that can
 
 Please enjoy the preview videos and screenshots for more information!
 
-                   ______
+                    ______
                   ／ ＞   フ
                   |   _  _ |
                  ／`ミ__X_ノ
